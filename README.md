@@ -4,3 +4,5 @@ This is a project I did in Grade 12 Computer Science to practice using .NET WPF.
 Raw Code: [code](/code)
 
 Final "Release" with .exe: [release](/release)
+
+![screenshot of working game](/original_assets/screenshot.png)
